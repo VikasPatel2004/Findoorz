@@ -1,0 +1,30 @@
+.footer {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.footer h5 {
+    font-weight: bold;
+}
+
+.footer a {
+    color: #333;
+    transition: color 0.3s;
+}
+
+.footer a:hover {
+    color: #ffcc00; /* Change to your desired hover color */
+}
+
+.footer .list-unstyled {
+    padding-left: 0;
+}
+
+.footer .d-flex {
+    list-style: none;
+    padding: 0;
+}
+
+.footer .d-flex li {
+    margin-right: 15px;
+}
